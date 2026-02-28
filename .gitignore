@@ -11,6 +11,8 @@
 # next.js
 /.next/
 /out/
+git config --global user.email "prudhvichowdary936@gmail.com"
+git config --global user.name "Prudhvi Kakarla"
 
 # production
 /build
